@@ -1,0 +1,7 @@
+C:\Users\Javier\Desktop\RepoCursoNet2023\BengtsonWCF\BengtsonWCF\bin\Debug\BengtsonWCF.dll.config
+C:\Users\Javier\Desktop\RepoCursoNet2023\BengtsonWCF\BengtsonWCF\bin\Debug\BengtsonWCF.dll
+C:\Users\Javier\Desktop\RepoCursoNet2023\BengtsonWCF\BengtsonWCF\bin\Debug\BengtsonWCF.pdb
+C:\Users\Javier\Desktop\RepoCursoNet2023\BengtsonWCF\BengtsonWCF\obj\Debug\BengtsonWCF.csproj.AssemblyReference.cache
+C:\Users\Javier\Desktop\RepoCursoNet2023\BengtsonWCF\BengtsonWCF\obj\Debug\BengtsonWCF.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Desktop\RepoCursoNet2023\BengtsonWCF\BengtsonWCF\obj\Debug\BengtsonWCF.dll
+C:\Users\Javier\Desktop\RepoCursoNet2023\BengtsonWCF\BengtsonWCF\obj\Debug\BengtsonWCF.pdb
